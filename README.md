@@ -1,2 +1,0 @@
-# HNGi7
-internship
